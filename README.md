@@ -22,8 +22,8 @@ A secure, scalable, and production-grade REST API for managing books and users, 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/zynetic-bookstore-api.git
-cd zynetic-bookstore-api
+git clone https://github.com/your-username/bookstore-backend-API.git
+cd bookstore-backend-API
 ```
 
 ### 2️⃣ Start with Docker (Recommended)
