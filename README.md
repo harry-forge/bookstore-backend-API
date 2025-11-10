@@ -22,7 +22,7 @@ A secure, scalable, and production-grade REST API for managing books and users, 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/bookstore-backend-API.git
+git clone https://github.com/harry-forge/bookstore-backend-API.git
 cd bookstore-backend-API
 ```
 
