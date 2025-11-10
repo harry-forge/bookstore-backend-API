@@ -1,5 +1,5 @@
 
-# 📚 Zynetic Bookstore – Spring Boot REST API
+# 📚 Bookstore Backend API – Spring Boot REST API
 
 A secure, scalable, and production-grade REST API for managing books and users, built with Spring Boot, PostgreSQL, and JWT authentication.
 
